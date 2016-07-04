@@ -22,8 +22,10 @@ Branches can keep logical tasks separated.  I think this will add to the ability
 How do the diagrams help you visualize the branch structure?
 The diagrams lets me see where parallel activity is taking place.  It also lets me see which changes are associated for a logical task
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together?
+My first attempt at branching was complete chaos.  I got stuff out of sync with the demo program.  I thought I would have to throw away everything and start over.
+
+Why do we represent it in the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
