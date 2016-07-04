@@ -30,3 +30,5 @@ Why do we represent it in the diagram the way we do?
 The diagram should help, but not making progress on the example repository.   I am sure it is supposed to show where all the changes are found.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Git's auto merge is very cryptic.  I finally found my problems and I think my repository is back on track.  I don't have much confidence in auto-merge.
+I can see auto-merge could be a time saver for simple changes.  I am quite clumsy with the merge output.  I need a lot more practice.
