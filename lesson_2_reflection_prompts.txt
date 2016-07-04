@@ -24,6 +24,7 @@ The diagrams lets me see where parallel activity is taking place.  It also lets 
 
 What is the result of merging two branches together?
 My first attempt at branching was complete chaos.  I got stuff out of sync with the demo program.  I thought I would have to throw away everything and start over.
+The example didn't go well.  I had to go forward in the lesson to understand what I did wrong.  I am not sure how I got out of sync.  I must have made a rookie mistake.
 
 Why do we represent it in the diagram the way we do?
 
