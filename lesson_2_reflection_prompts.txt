@@ -32,3 +32,6 @@ The diagram should help, but not making progress on the example repository.   I 
 What are the pros and cons of Git's automatic merging vs. always doing merges manually?
 Git's auto merge is very cryptic.  I finally found my problems and I think my repository is back on track.  I don't have much confidence in auto-merge.
 I can see auto-merge could be a time saver for simple changes.  I am quite clumsy with the merge output.  I need a lot more practice.
+I guess this format works for merging.  It is still foreign to me.  I like the way beyond compare presents chages...much more intuitive.
+
+
