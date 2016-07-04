@@ -31,4 +31,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    I have a couple of personal coding projects that I wish to get under better control
