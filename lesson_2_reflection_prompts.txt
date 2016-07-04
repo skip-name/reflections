@@ -7,7 +7,7 @@ The staging area gives me a method of keeping changes in a temporary state befor
 The working directory is a place where I can use a current version and swap between versions from the repository
 
 What value do you think it offers?
-This offers more granularity on my changes
+This offers more granularity on my changes.  The staging area lets me get an idea if all changes play well together before committing them
 
 How can you use the staging area to make sure you have one commit per logical
 change?
