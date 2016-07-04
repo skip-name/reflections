@@ -9,8 +9,8 @@ The working directory is a place where I can use a current version and swap betw
 What value do you think it offers?
 This offers more granularity on my changes.  The staging area lets me get an idea if all changes play well together before committing them
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+staging allows you to put together files for committing from amoung multiple changes.  This is to be sure all changed files play together well
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
