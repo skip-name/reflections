@@ -1,1 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
+use this when sharing with others or when working from multiple computers
+This is a good souce for remote backup and storage
+
+
