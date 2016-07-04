@@ -27,6 +27,6 @@ My first attempt at branching was complete chaos.  I got stuff out of sync with 
 The example didn't go well.  I had to go forward in the lesson to understand what I did wrong.  I am not sure how I got out of sync.  I must have made a rookie mistake.
 
 Why do we represent it in the diagram the way we do?
+The diagram should help, but not making progress on the example repository.   I am sure it is supposed to show where all the changes are found.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
