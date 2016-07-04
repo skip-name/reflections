@@ -12,8 +12,12 @@ This offers more granularity on my changes.  The staging area lets me get an ide
 How can you use the staging area to make sure you have one commit per logical change?
 staging allows you to put together files for committing from amoung multiple changes.  This is to be sure all changed files play together well
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? 
+I will use branches to separate changes that are happening in parallel.  I will then be able to make a couple of logical changes at the same time
+
+How would branches help?
+Branches can keep logical tasks separated.  I think this will add to the ability to develop parts of a project in isolation when I get stuck and need input to finish a logical part, but I have data to finish a different logical part of my project
+
 
 How do the diagrams help you visualize the branch structure?
 
