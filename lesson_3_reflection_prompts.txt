@@ -2,4 +2,6 @@ When would you want to use a remote repository rather than keeping all your work
 use this when sharing with others or when working from multiple computers
 This is a good souce for remote backup and storage
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork is a clone from github account to github account, clone is a copy of a repository, branches are changes to repositories
 
