@@ -1,7 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+On init I get an empty repository.  This will ensure that the repository is intialized and ony then do I actually start saving things
+
 How is the staging area different from the working directory and the repository?
+The staging area gives me a method of keeping changes in a temporary state before commiting them permanently.
+The working directory is a place where I can use a current version and swap between versions from the repository
+
 What value do you think it offers?
+This offers more granularity on my changes
 
 How can you use the staging area to make sure you have one commit per logical
 change?
