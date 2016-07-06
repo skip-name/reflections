@@ -8,3 +8,9 @@ fork is a clone from github account to github account, clone is a copy of a repo
 What is the benefit of having a copy of the last known state of the remote stored locally?
 I can run off line making changes then commit when back on line
 
+How would you collaborate without using Git or GitHub?
+zip up files and send them to the other person
+
+ What would be easier, and what would be harder?
+ right now I think using github is much harder.  it is currently counter intuitive and very clumsy.
+ 
