@@ -13,4 +13,11 @@ zip up files and send them to the other person
 
  What would be easier, and what would be harder?
  right now I think using github is much harder.  it is currently counter intuitive and very clumsy.
+
+When would you want to make changes in a separate branch rather than directly in master? 
+for collaboration when I want to be sure others can see and comment on my changes before I commit them
+
+What benefits does each approach have?
+directly on the master branch seems the most straight forward and easier than all the pulls and pushes and other steps for collaboration
+
  
